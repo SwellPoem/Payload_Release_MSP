@@ -33,3 +33,6 @@ The final simulation results indicate successful compliance with all requirement
 ## Conclusions
 
 This project demonstrates the effective use of Hexagon Adams software in modeling and optimizing a complex multi-body space structure mechanism. Through careful adjustment of design variables and an iterative optimization process, the project team successfully met the assignment's stringent requirements, paving the way for safer and more efficient space payload deployment.
+
+## Software
+The project has been carried out with the Hexagon Adams software
