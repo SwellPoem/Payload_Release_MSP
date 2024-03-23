@@ -1,6 +1,6 @@
 ## Overview
 
-This document summarizes the Hexagon Adams assignment for the Multi-body Space Structures course, at the Aerospace Engineering MD, University of Rome Sapienza. The project focuses on modeling the payload release mechanism from an upper stage into space. The mechanism ensures minimal nutation, a maximum spin rate under 5 degrees per second for payloads, a minimum distance of 1 meter between payloads post-release, and a simulation duration not exceeding 10 seconds.
+This project consists in an Hexagon Adams assignment for the Multi-body Space Structures course, at the Aerospace Engineering MD, University of Rome Sapienza. The project focuses on modeling the payload release mechanism from an upper stage into space. The mechanism ensures minimal nutation, a maximum spin rate under 5 degrees per second for payloads, a minimum distance of 1 meter between payloads post-release, and a simulation duration not exceeding 10 seconds.
 
 ## Problem Description
 
